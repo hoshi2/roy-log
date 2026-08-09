@@ -1,4 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
-  <rect width="512" height="512" rx="112" fill="#111318"/>
-  <text x="256" y="262" text-anchor="middle" dominant-baseline="central" font-family="'Space Grotesk','Arial',sans-serif" font-size="230" font-weight="700" fill="#ffffff">02</text>
+  <rect width="512" height="512" rx="112" fill="#131722"/>
+  <rect x="169" y="96" width="174" height="5" fill="#e0b64f"/>
+  <rect x="169" y="411" width="174" height="5" fill="#e0b64f"/>
+  <g fill="#e0b64f" font-family="'Helvetica Neue',Helvetica,Arial,sans-serif" font-size="132" font-weight="700" letter-spacing="14" text-anchor="middle">
+    <text x="263" y="243">ROY</text>
+    <text x="263" y="364">LOG</text>
+  </g>
 </svg>
